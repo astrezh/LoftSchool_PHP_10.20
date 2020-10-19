@@ -5,9 +5,9 @@
 
 const TEST_CONSTANTA = 'asd';
 
-$user_name = "Igor";
+$user_Name = "Igor";
 
-function show_something()
+function show_Something()
 {
 	return 'SOMETHING';
 
