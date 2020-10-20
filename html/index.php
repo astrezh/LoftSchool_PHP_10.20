@@ -38,3 +38,4 @@ $text = "Hello again!";
 $fp = fopen("file.txt", "w");
 fwrite($fp, $text);
 fclose($fp);
+readfile("file.txt");
